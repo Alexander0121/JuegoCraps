@@ -37,7 +37,7 @@ public class GUI extends JFrame {
 
         //Default JFrame configuration
         this.setTitle("Juego Craps");
-        this.setSize(200,100);
+        //this.setSize(200,100);
         this.pack();
         this.setResizable(true);
         this.setVisible(true);
